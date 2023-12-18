@@ -1,2 +1,2 @@
 # echapakehportofolio.github.io
-Example Website Portofolio
+Example of website portfolio
